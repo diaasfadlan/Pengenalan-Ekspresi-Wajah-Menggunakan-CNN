@@ -12,3 +12,5 @@ Arsitektur CNN yang di gunakan:
 3.Dropout untuk regularisasi
 4. Fully Connected (Dense) layer dengan Softmax output untuk 7 kelas ekspresi
 
+
+![Foto Saya](images/hasil.jpg)
