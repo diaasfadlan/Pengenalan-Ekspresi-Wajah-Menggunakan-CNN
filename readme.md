@@ -2,7 +2,7 @@ Demo ini di buat untuk memenuhi tugas metodologi penelitian informatika
 
 Pengenalan Ekspresi Wajah menggunakan Convolutional Neural Network (CNN)
 Dataset yang di gunakan: 
-FER-2013, tersedia dalam format CSV dari kompetisi Kaggle. Dataset ini telah dibagi menjadi:
+FER-2013, tersedia dalam format CSV dari kompetisi Kaggle.Dataset ini telah dibagi menjadi:
 LINK:https://www.kaggle.com/code/benewicaksono/fer2013-with-minixception/notebook
 1. Training: 28.709 gambar
 2. Validation & Testing: 7.178 gambar
